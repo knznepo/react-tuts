@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-tutorial/static/css/main.c8b44c70.chunk.css",
-    "main.js": "/react-tutorial/static/js/main.794158ff.chunk.js",
-    "main.js.map": "/react-tutorial/static/js/main.794158ff.chunk.js.map",
-    "runtime~main.js": "/react-tutorial/static/js/runtime~main.782a6e4d.js",
-    "runtime~main.js.map": "/react-tutorial/static/js/runtime~main.782a6e4d.js.map",
-    "static/js/2.c40744a1.chunk.js": "/react-tutorial/static/js/2.c40744a1.chunk.js",
-    "static/js/2.c40744a1.chunk.js.map": "/react-tutorial/static/js/2.c40744a1.chunk.js.map",
-    "index.html": "/react-tutorial/index.html",
-    "precache-manifest.2e9d7edbc97c9afbf8d0eda2aa0ad260.js": "/react-tutorial/precache-manifest.2e9d7edbc97c9afbf8d0eda2aa0ad260.js",
-    "service-worker.js": "/react-tutorial/service-worker.js",
-    "static/css/main.c8b44c70.chunk.css.map": "/react-tutorial/static/css/main.c8b44c70.chunk.css.map"
+    "main.css": "/react-tuts/static/css/main.c8b44c70.chunk.css",
+    "main.js": "/react-tuts/static/js/main.cc0f846a.chunk.js",
+    "main.js.map": "/react-tuts/static/js/main.cc0f846a.chunk.js.map",
+    "runtime~main.js": "/react-tuts/static/js/runtime~main.20384a90.js",
+    "runtime~main.js.map": "/react-tuts/static/js/runtime~main.20384a90.js.map",
+    "static/js/2.c40744a1.chunk.js": "/react-tuts/static/js/2.c40744a1.chunk.js",
+    "static/js/2.c40744a1.chunk.js.map": "/react-tuts/static/js/2.c40744a1.chunk.js.map",
+    "index.html": "/react-tuts/index.html",
+    "precache-manifest.a02c9853001c5029749847fe7175e7bf.js": "/react-tuts/precache-manifest.a02c9853001c5029749847fe7175e7bf.js",
+    "service-worker.js": "/react-tuts/service-worker.js",
+    "static/css/main.c8b44c70.chunk.css.map": "/react-tuts/static/css/main.c8b44c70.chunk.css.map"
   }
 }
